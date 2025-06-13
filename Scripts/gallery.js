@@ -1,6 +1,14 @@
         // Define card images and messages
         const cardData = [
             { 
+                frontImage: "Images/14.png", 
+                type: "image"
+            },
+            { 
+                frontImage: "Images/13.png", 
+                type: "image"
+            },
+            { 
                 frontImage: "Images/12.png", 
                 type: "image"
             },
